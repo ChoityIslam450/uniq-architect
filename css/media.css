@@ -1,0 +1,38 @@
+@media(max-width:575px){
+    .logo img{
+        width: 130px;
+    }
+    .first_header ul{
+        padding: 40px 0;
+        margin-top: 40px;
+    }
+    .first_header ul li .icon{
+      font-size: 16px;  
+    }
+    .first_header ul li .info h5{
+        font-size: 12px;
+    }
+    .first_header ul li .info {
+        font-size: 9px;
+    }
+    .navbar-nav ul{
+        margin-left: 25px;
+    }
+    .toggle{
+        width: 57px;
+        height: 70px;
+    }
+    
+.line-toggle:first-child {
+    transform: translateY(-18px) translateX(-14px);}
+
+    .line-toggle:last-child {
+        transform: translateY(18px) translateX(-15px)}
+
+
+
+
+
+
+
+}
